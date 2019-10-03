@@ -1,0 +1,10 @@
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\bin\Debug\BaseConversions.exe.config
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\bin\Debug\BaseConversions.exe
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\bin\Debug\BaseConversions.pdb
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\obj\Debug\BaseConversions.csprojAssemblyReference.cache
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\obj\Debug\BaseConversions.Form1.resources
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\obj\Debug\BaseConversions.Properties.Resources.resources
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\obj\Debug\BaseConversions.csproj.GenerateResource.cache
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\obj\Debug\BaseConversions.csproj.CoreCompileInputs.cache
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\obj\Debug\BaseConversions.exe
+H:\Subjects\Computer Science\VisualStudio\BaseConversions\BaseConversions\obj\Debug\BaseConversions.pdb
